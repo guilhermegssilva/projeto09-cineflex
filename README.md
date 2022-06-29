@@ -1,4 +1,4 @@
-![Peek 14-06-2022 19-39](https://user-images.githubusercontent.com/102394141/176548478-11e9910e-36d4-4c70-ab4a-a0442c99f1d1.gif)
+![Peek 14-06-2022 19-39](https://user-images.githubusercontent.com/102394141/176550871-03e26e14-0e6e-4afb-b596-567fbe1797d3.gif)
 <br/>
 
 ## 📝 Descrição
