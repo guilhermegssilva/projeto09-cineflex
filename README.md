@@ -2,7 +2,7 @@
 <br/>
 
 ## 📝 Descrição
-Simulação de um site para reserva de ingressos em um cinema. Na homepage, uma lista de filmes trazidas da api é mostrada ao usuário. Ao clicar em um filme ele será levado a seção de reservas de ingressos. O mapa de assentos é atualizado dependendo da disponibilidade dos lugares já reservados.
+Site para reserva de ingressos em um cinema. Na homepage, uma lista de filmes trazidas da api é mostrada ao usuário. Ao clicar em um filme ele será levado a seção de reservas de ingressos. O mapa de assentos é atualizado dependendo da disponibilidade dos lugares já reservados. Após o preenchimento das informações pessoais, será gerado um comprovante da reserva.
 <br/>
 
 ## 🖥️ Tecnologias
